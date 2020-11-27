@@ -48,7 +48,7 @@ const Product = ({
 			return sizes.slice(0, 2).map(value => ({ value, label: dictionary.sizes[value] || value }))
 		 }
 		 else if (id === 'pfs' && color === 'BLACK' && gender === 'BOY') {
-			return sizes.slice(0, 2).map(value => ({ value, label: dictionary.sizes[value] || value }))
+			return sizes.slice(0, 1).map(value => ({ value, label: dictionary.sizes[value] || value }))
 		 }
 		 else if (id === 'verse' && color === 'BLACK' && gender === 'GIRL') {
 			return sizes.slice(0, 2).map(value => ({ value, label: dictionary.sizes[value] || value }))
