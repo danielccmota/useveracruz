@@ -36,7 +36,7 @@
               "id": "hoodie",
               "title": "Moletom",
               "price": 199.70,
-              "description": "Moletom com capuz e bolso cangurú de grife, 100% algodão feito com silk-screen",
+              "description": "Moletom com capuz e bolso canguru de grife, 100% algodão feito com silk-screen",
               "colors": [
                 "WHITE"
               ],
@@ -53,10 +53,10 @@
                 "default": "hoodie-white.jpg",
                 "color": {
                   "white": [
-                    "hoodie-white.jpg",
+                    "hoodie-white.jpg"
                   ],
                   "black": [
-                    "hoodie-black.jpg",
+                    "hoodie-black.jpg"
                   ]
                 }
               }
