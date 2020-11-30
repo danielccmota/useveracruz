@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "pfs",
-      "title": "Pecadores Feitos Santos",
+      "title": "Edição Limitada - Camiseta Pecadores Feitos Santos",
       "price": 89.70,
       "description": "Camiseta de grife, 100% algodão feita com silk-screen",
       "colors": [
@@ -34,7 +34,7 @@
 
       {
               "id": "hoodie",
-              "title": "Moletom",
+              "title": "Edição Limitada - Moletom Jesus é",
               "price": 199.70,
               "description": "Moletom com capuz e bolso canguru de grife, 100% algodão feito com silk-screen",
               "colors": [
@@ -64,7 +64,7 @@
 
     {
       "id": "verse",
-      "title": "Versículo",
+      "title": "Edição Limitada - Camiseta João 3:16",
       "price": 89.70,
       "description": "Camiseta de grife, 100% algodão feita com silk-screen",
       "colors": [
